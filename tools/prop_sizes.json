@@ -1,0 +1,1309 @@
+{
+ "comment": "Prop sizes from mg-prop-hunt's props/catalogue.json, copied by tools/build_maps.py --sync-sizes. The builder stacks props on each other with these; the game measures the models, this is a copy.",
+ "props": {
+  "furniture_bathroom_cabinet": {
+   "disguise": true,
+   "size": [
+    0.529,
+    0.897,
+    0.299
+   ]
+  },
+  "furniture_bathroom_cabinet_drawer": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.085,
+    0.736
+   ]
+  },
+  "furniture_bathroom_mirror": {
+   "disguise": false,
+   "size": [
+    0.693,
+    1.0,
+    0.332
+   ]
+  },
+  "furniture_bathroom_sink": {
+   "disguise": true,
+   "size": [
+    0.782,
+    1.288,
+    0.667
+   ]
+  },
+  "furniture_bathroom_sink_square": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.334,
+    0.69
+   ]
+  },
+  "furniture_bathtub": {
+   "disguise": true,
+   "size": [
+    2.737,
+    0.966,
+    1.288
+   ]
+  },
+  "furniture_bear": {
+   "disguise": true,
+   "size": [
+    0.896,
+    1.035,
+    0.569
+   ]
+  },
+  "furniture_bed_bunk": {
+   "disguise": true,
+   "size": [
+    1.313,
+    1.955,
+    2.519
+   ]
+  },
+  "furniture_bed_double": {
+   "disguise": true,
+   "size": [
+    2.199,
+    0.862,
+    2.587
+   ]
+  },
+  "furniture_bed_single": {
+   "disguise": true,
+   "size": [
+    1.313,
+    0.862,
+    2.587
+   ]
+  },
+  "furniture_bench": {
+   "disguise": true,
+   "size": [
+    0.92,
+    1.081,
+    0.46
+   ]
+  },
+  "furniture_bench_cushion": {
+   "disguise": true,
+   "size": [
+    0.92,
+    1.058,
+    0.46
+   ]
+  },
+  "furniture_bench_cushion_low": {
+   "disguise": true,
+   "size": [
+    0.966,
+    0.46,
+    0.506
+   ]
+  },
+  "furniture_bookcase_closed": {
+   "disguise": true,
+   "size": [
+    0.92,
+    1.955,
+    0.575
+   ]
+  },
+  "furniture_bookcase_closed_doors": {
+   "disguise": true,
+   "size": [
+    0.92,
+    1.955,
+    0.575
+   ]
+  },
+  "furniture_bookcase_closed_wide": {
+   "disguise": true,
+   "size": [
+    1.84,
+    1.817,
+    0.575
+   ]
+  },
+  "furniture_bookcase_open": {
+   "disguise": true,
+   "size": [
+    0.92,
+    2.024,
+    0.575
+   ]
+  },
+  "furniture_bookcase_open_low": {
+   "disguise": true,
+   "size": [
+    0.92,
+    0.92,
+    0.575
+   ]
+  },
+  "furniture_books": {
+   "disguise": true,
+   "size": [
+    0.346,
+    0.239,
+    0.217
+   ]
+  },
+  "furniture_cabinet_bed": {
+   "disguise": true,
+   "size": [
+    0.612,
+    0.536,
+    0.495
+   ]
+  },
+  "furniture_cabinet_bed_drawer": {
+   "disguise": true,
+   "size": [
+    0.612,
+    0.605,
+    0.5
+   ]
+  },
+  "furniture_cabinet_bed_drawer_table": {
+   "disguise": true,
+   "size": [
+    0.612,
+    0.605,
+    0.5
+   ]
+  },
+  "furniture_cabinet_television": {
+   "disguise": true,
+   "size": [
+    1.84,
+    0.713,
+    0.575
+   ]
+  },
+  "furniture_cabinet_television_doors": {
+   "disguise": true,
+   "size": [
+    1.84,
+    0.713,
+    0.598
+   ]
+  },
+  "furniture_cardboard_box_closed": {
+   "disguise": true,
+   "size": [
+    0.489,
+    0.646,
+    0.489
+   ]
+  },
+  "furniture_cardboard_box_open": {
+   "disguise": true,
+   "size": [
+    0.855,
+    0.646,
+    0.489
+   ]
+  },
+  "furniture_ceiling_fan": {
+   "disguise": false,
+   "size": [
+    1.046,
+    0.308,
+    1.208
+   ]
+  },
+  "furniture_chair": {
+   "disguise": true,
+   "size": [
+    0.46,
+    1.081,
+    0.46
+   ]
+  },
+  "furniture_chair_cushion": {
+   "disguise": true,
+   "size": [
+    0.46,
+    1.058,
+    0.46
+   ]
+  },
+  "furniture_chair_desk": {
+   "disguise": true,
+   "size": [
+    0.77,
+    1.397,
+    0.723
+   ]
+  },
+  "furniture_chair_modern_cushion": {
+   "disguise": true,
+   "size": [
+    0.46,
+    1.058,
+    0.46
+   ]
+  },
+  "furniture_chair_modern_frame_cushion": {
+   "disguise": true,
+   "size": [
+    0.46,
+    1.058,
+    0.46
+   ]
+  },
+  "furniture_chair_rounded": {
+   "disguise": true,
+   "size": [
+    0.46,
+    1.046,
+    0.46
+   ]
+  },
+  "furniture_coat_rack": {
+   "disguise": true,
+   "size": [
+    1.03,
+    0.644,
+    0.309
+   ]
+  },
+  "furniture_coat_rack_standing": {
+   "disguise": true,
+   "size": [
+    0.627,
+    1.771,
+    0.627
+   ]
+  },
+  "furniture_computer_keyboard": {
+   "disguise": true,
+   "size": [
+    0.649,
+    0.063,
+    0.272
+   ]
+  },
+  "furniture_computer_mouse": {
+   "disguise": true,
+   "size": [
+    0.114,
+    0.054,
+    0.196
+   ]
+  },
+  "furniture_computer_screen": {
+   "disguise": true,
+   "size": [
+    0.903,
+    0.677,
+    0.239
+   ]
+  },
+  "furniture_desk": {
+   "disguise": true,
+   "size": [
+    1.689,
+    0.884,
+    0.902
+   ]
+  },
+  "furniture_desk_corner": {
+   "disguise": true,
+   "size": [
+    2.241,
+    0.884,
+    2.241
+   ]
+  },
+  "furniture_dryer": {
+   "disguise": true,
+   "size": [
+    0.897,
+    1.081,
+    0.874
+   ]
+  },
+  "furniture_hood_large": {
+   "disguise": false,
+   "size": [
+    0.989,
+    0.85,
+    0.655
+   ]
+  },
+  "furniture_hood_modern": {
+   "disguise": false,
+   "size": [
+    0.989,
+    0.919,
+    0.655
+   ]
+  },
+  "furniture_kitchen_bar": {
+   "disguise": true,
+   "size": [
+    0.989,
+    0.966,
+    0.483
+   ]
+  },
+  "furniture_kitchen_bar_end": {
+   "disguise": true,
+   "size": [
+    0.234,
+    0.966,
+    0.483
+   ]
+  },
+  "furniture_kitchen_blender": {
+   "disguise": true,
+   "size": [
+    0.312,
+    0.523,
+    0.251
+   ]
+  },
+  "furniture_kitchen_cabinet": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.035,
+    1.035
+   ]
+  },
+  "furniture_kitchen_cabinet_corner_inner": {
+   "disguise": true,
+   "size": [
+    1.058,
+    1.035,
+    1.058
+   ]
+  },
+  "furniture_kitchen_cabinet_corner_round": {
+   "disguise": true,
+   "size": [
+    1.035,
+    1.035,
+    1.035
+   ]
+  },
+  "furniture_kitchen_cabinet_drawer": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.035,
+    1.035
+   ]
+  },
+  "furniture_kitchen_cabinet_upper": {
+   "disguise": false,
+   "size": [
+    0.989,
+    0.897,
+    0.506
+   ]
+  },
+  "furniture_kitchen_cabinet_upper_corner": {
+   "disguise": false,
+   "size": [
+    0.495,
+    0.897,
+    0.483
+   ]
+  },
+  "furniture_kitchen_cabinet_upper_double": {
+   "disguise": false,
+   "size": [
+    0.989,
+    0.897,
+    0.506
+   ]
+  },
+  "furniture_kitchen_cabinet_upper_low": {
+   "disguise": false,
+   "size": [
+    0.989,
+    0.449,
+    0.506
+   ]
+  },
+  "furniture_kitchen_coffee_machine": {
+   "disguise": true,
+   "size": [
+    0.436,
+    0.408,
+    0.552
+   ]
+  },
+  "furniture_kitchen_fridge": {
+   "disguise": true,
+   "size": [
+    0.989,
+    2.116,
+    0.671
+   ]
+  },
+  "furniture_kitchen_fridge_built_in": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.998,
+    1.035
+   ]
+  },
+  "furniture_kitchen_fridge_large": {
+   "disguise": true,
+   "size": [
+    1.196,
+    2.116,
+    0.933
+   ]
+  },
+  "furniture_kitchen_fridge_small": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.381,
+    0.671
+   ]
+  },
+  "furniture_kitchen_microwave": {
+   "disguise": true,
+   "size": [
+    0.667,
+    0.414,
+    0.529
+   ]
+  },
+  "furniture_kitchen_sink": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.127,
+    1.035
+   ]
+  },
+  "furniture_kitchen_stove": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.035,
+    1.035
+   ]
+  },
+  "furniture_kitchen_stove_electric": {
+   "disguise": true,
+   "size": [
+    0.989,
+    1.035,
+    1.035
+   ]
+  },
+  "furniture_lamp_round_floor": {
+   "disguise": true,
+   "size": [
+    0.35,
+    1.978,
+    0.404
+   ]
+  },
+  "furniture_lamp_round_table": {
+   "disguise": true,
+   "size": [
+    0.35,
+    0.723,
+    0.404
+   ]
+  },
+  "furniture_lamp_square_ceiling": {
+   "disguise": false,
+   "size": [
+    0.276,
+    0.529,
+    0.276
+   ]
+  },
+  "furniture_lamp_square_floor": {
+   "disguise": true,
+   "size": [
+    0.276,
+    1.978,
+    0.276
+   ]
+  },
+  "furniture_lamp_square_table": {
+   "disguise": true,
+   "size": [
+    0.276,
+    0.667,
+    0.276
+   ]
+  },
+  "furniture_lamp_wall": {
+   "disguise": false,
+   "size": [
+    0.521,
+    0.213,
+    0.346
+   ]
+  },
+  "furniture_laptop": {
+   "disguise": true,
+   "size": [
+    0.607,
+    0.372,
+    0.552
+   ]
+  },
+  "furniture_lounge_chair": {
+   "disguise": true,
+   "size": [
+    1.127,
+    1.058,
+    0.943
+   ]
+  },
+  "furniture_lounge_chair_relax": {
+   "disguise": true,
+   "size": [
+    1.127,
+    1.449,
+    1.552
+   ]
+  },
+  "furniture_lounge_design_chair": {
+   "disguise": true,
+   "size": [
+    1.678,
+    0.92,
+    0.943
+   ]
+  },
+  "furniture_lounge_design_sofa": {
+   "disguise": true,
+   "size": [
+    2.576,
+    0.92,
+    0.943
+   ]
+  },
+  "furniture_lounge_design_sofa_corner": {
+   "disguise": true,
+   "size": [
+    3.105,
+    0.92,
+    3.105
+   ]
+  },
+  "furniture_lounge_sofa": {
+   "disguise": true,
+   "size": [
+    2.254,
+    1.058,
+    0.943
+   ]
+  },
+  "furniture_lounge_sofa_corner": {
+   "disguise": true,
+   "size": [
+    2.254,
+    1.058,
+    2.254
+   ]
+  },
+  "furniture_lounge_sofa_long": {
+   "disguise": true,
+   "size": [
+    2.254,
+    1.058,
+    1.886
+   ]
+  },
+  "furniture_lounge_sofa_ottoman": {
+   "disguise": true,
+   "size": [
+    1.012,
+    0.529,
+    1.035
+   ]
+  },
+  "furniture_pillow": {
+   "disguise": true,
+   "size": [
+    0.529,
+    0.511,
+    0.204
+   ]
+  },
+  "furniture_pillow_blue": {
+   "disguise": true,
+   "size": [
+    0.529,
+    0.296,
+    0.146
+   ]
+  },
+  "furniture_pillow_blue_long": {
+   "disguise": true,
+   "size": [
+    1.188,
+    0.511,
+    0.204
+   ]
+  },
+  "furniture_pillow_long": {
+   "disguise": true,
+   "size": [
+    0.889,
+    0.511,
+    0.204
+   ]
+  },
+  "furniture_plant_small1": {
+   "disguise": true,
+   "size": [
+    0.218,
+    0.322,
+    0.218
+   ]
+  },
+  "furniture_plant_small2": {
+   "disguise": true,
+   "size": [
+    0.218,
+    0.322,
+    0.218
+   ]
+  },
+  "furniture_plant_small3": {
+   "disguise": true,
+   "size": [
+    0.225,
+    0.333,
+    0.195
+   ]
+  },
+  "furniture_potted_plant": {
+   "disguise": true,
+   "size": [
+    0.488,
+    1.504,
+    0.555
+   ]
+  },
+  "furniture_radio": {
+   "disguise": true,
+   "size": [
+    0.725,
+    0.525,
+    0.224
+   ]
+  },
+  "furniture_rug_doormat": {
+   "disguise": true,
+   "size": [
+    0.987,
+    0.023,
+    0.545
+   ]
+  },
+  "furniture_rug_rectangle": {
+   "disguise": true,
+   "size": [
+    3.611,
+    0.023,
+    2.116
+   ]
+  },
+  "furniture_rug_round": {
+   "disguise": true,
+   "size": [
+    2.116,
+    0.023,
+    2.116
+   ]
+  },
+  "furniture_rug_rounded": {
+   "disguise": true,
+   "size": [
+    3.611,
+    0.023,
+    2.116
+   ]
+  },
+  "furniture_rug_square": {
+   "disguise": true,
+   "size": [
+    2.08,
+    0.023,
+    2.116
+   ]
+  },
+  "furniture_shower": {
+   "disguise": false,
+   "size": [
+    1.292,
+    2.516,
+    1.338
+   ]
+  },
+  "furniture_shower_round": {
+   "disguise": false,
+   "size": [
+    1.292,
+    2.516,
+    1.292
+   ]
+  },
+  "furniture_side_table": {
+   "disguise": true,
+   "size": [
+    1.229,
+    0.884,
+    0.506
+   ]
+  },
+  "furniture_side_table_drawers": {
+   "disguise": true,
+   "size": [
+    1.229,
+    0.884,
+    0.511
+   ]
+  },
+  "furniture_speaker": {
+   "disguise": true,
+   "size": [
+    0.34,
+    1.464,
+    0.34
+   ]
+  },
+  "furniture_speaker_small": {
+   "disguise": true,
+   "size": [
+    0.34,
+    0.685,
+    0.306
+   ]
+  },
+  "furniture_stool_bar": {
+   "disguise": true,
+   "size": [
+    0.611,
+    1.0,
+    0.529
+   ]
+  },
+  "furniture_stool_bar_square": {
+   "disguise": true,
+   "size": [
+    0.353,
+    0.931,
+    0.34
+   ]
+  },
+  "furniture_table": {
+   "disguise": true,
+   "size": [
+    1.935,
+    0.751,
+    1.029
+   ]
+  },
+  "furniture_table_cloth": {
+   "disguise": true,
+   "size": [
+    1.935,
+    0.751,
+    1.029
+   ]
+  },
+  "furniture_table_coffee": {
+   "disguise": true,
+   "size": [
+    1.52,
+    0.529,
+    0.92
+   ]
+  },
+  "furniture_table_coffee_glass": {
+   "disguise": true,
+   "size": [
+    1.52,
+    0.529,
+    0.92
+   ]
+  },
+  "furniture_table_coffee_glass_square": {
+   "disguise": true,
+   "size": [
+    0.92,
+    0.529,
+    0.92
+   ]
+  },
+  "furniture_table_coffee_square": {
+   "disguise": true,
+   "size": [
+    0.92,
+    0.529,
+    0.92
+   ]
+  },
+  "furniture_table_cross": {
+   "disguise": true,
+   "size": [
+    1.96,
+    0.799,
+    1.029
+   ]
+  },
+  "furniture_table_cross_cloth": {
+   "disguise": true,
+   "size": [
+    1.96,
+    0.799,
+    1.029
+   ]
+  },
+  "furniture_table_glass": {
+   "disguise": true,
+   "size": [
+    1.935,
+    0.752,
+    1.029
+   ]
+  },
+  "furniture_table_round": {
+   "disguise": true,
+   "size": [
+    1.593,
+    0.843,
+    1.84
+   ]
+  },
+  "furniture_television_antenna": {
+   "disguise": true,
+   "size": [
+    0.608,
+    0.236,
+    0.184
+   ]
+  },
+  "furniture_television_modern": {
+   "disguise": true,
+   "size": [
+    1.575,
+    1.046,
+    0.295
+   ]
+  },
+  "furniture_television_vintage": {
+   "disguise": true,
+   "size": [
+    0.943,
+    0.621,
+    0.621
+   ]
+  },
+  "furniture_toaster": {
+   "disguise": true,
+   "size": [
+    0.432,
+    0.299,
+    0.23
+   ]
+  },
+  "furniture_toilet": {
+   "disguise": true,
+   "size": [
+    0.719,
+    1.037,
+    1.098
+   ]
+  },
+  "furniture_toilet_square": {
+   "disguise": true,
+   "size": [
+    0.698,
+    1.037,
+    0.891
+   ]
+  },
+  "furniture_trashcan": {
+   "disguise": true,
+   "size": [
+    0.478,
+    0.984,
+    0.538
+   ]
+  },
+  "furniture_washer": {
+   "disguise": true,
+   "size": [
+    0.897,
+    1.081,
+    0.897
+   ]
+  },
+  "furniture_washer_dryer_stacked": {
+   "disguise": true,
+   "size": [
+    0.897,
+    2.162,
+    0.897
+   ]
+  },
+  "nature_cactus_tall": {
+   "disguise": true,
+   "size": [
+    0.991,
+    1.875,
+    0.848
+   ]
+  },
+  "nature_campfire_logs": {
+   "disguise": true,
+   "size": [
+    0.73,
+    0.156,
+    0.73
+   ]
+  },
+  "nature_crop_melon": {
+   "disguise": true,
+   "size": [
+    1.044,
+    0.87,
+    0.904
+   ]
+  },
+  "nature_crop_pumpkin": {
+   "disguise": true,
+   "size": [
+    1.103,
+    0.835,
+    1.13
+   ]
+  },
+  "nature_fence_planks": {
+   "disguise": false,
+   "size": [
+    2.5,
+    0.863,
+    0.24
+   ]
+  },
+  "nature_fence_simple": {
+   "disguise": false,
+   "size": [
+    2.5,
+    0.863,
+    0.175
+   ]
+  },
+  "nature_flower_purple_a": {
+   "disguise": true,
+   "size": [
+    0.398,
+    0.606,
+    0.453
+   ]
+  },
+  "nature_flower_red_a": {
+   "disguise": true,
+   "size": [
+    0.398,
+    0.731,
+    0.453
+   ]
+  },
+  "nature_flower_yellow_a": {
+   "disguise": true,
+   "size": [
+    0.398,
+    0.481,
+    0.453
+   ]
+  },
+  "nature_grass_large": {
+   "disguise": true,
+   "size": [
+    1.022,
+    0.635,
+    1.02
+   ]
+  },
+  "nature_hanging_moss": {
+   "disguise": false,
+   "size": [
+    0.4,
+    1.196,
+    0.087
+   ]
+  },
+  "nature_lily_large": {
+   "disguise": false,
+   "size": [
+    0.68,
+    0.245,
+    0.785
+   ]
+  },
+  "nature_log": {
+   "disguise": true,
+   "size": [
+    0.585,
+    0.433,
+    1.775
+   ]
+  },
+  "nature_log_large": {
+   "disguise": true,
+   "size": [
+    2.5,
+    1.042,
+    1.373
+   ]
+  },
+  "nature_log_stack": {
+   "disguise": true,
+   "size": [
+    1.062,
+    0.866,
+    1.775
+   ]
+  },
+  "nature_mushroom_red_tall": {
+   "disguise": true,
+   "size": [
+    0.309,
+    0.626,
+    0.357
+   ]
+  },
+  "nature_plant_bush": {
+   "disguise": true,
+   "size": [
+    0.99,
+    0.611,
+    0.99
+   ]
+  },
+  "nature_plant_bush_detailed": {
+   "disguise": true,
+   "size": [
+    1.506,
+    0.901,
+    1.506
+   ]
+  },
+  "nature_plant_bush_large": {
+   "disguise": true,
+   "size": [
+    0.936,
+    0.607,
+    0.839
+   ]
+  },
+  "nature_plant_bush_small": {
+   "disguise": true,
+   "size": [
+    0.957,
+    0.518,
+    0.841
+   ]
+  },
+  "nature_pot_large": {
+   "disguise": true,
+   "size": [
+    1.409,
+    0.5,
+    1.22
+   ]
+  },
+  "nature_pot_small": {
+   "disguise": true,
+   "size": [
+    0.809,
+    0.67,
+    0.7
+   ]
+  },
+  "nature_rock_large_a": {
+   "disguise": true,
+   "size": [
+    1.962,
+    0.649,
+    2.539
+   ]
+  },
+  "nature_rock_small_a": {
+   "disguise": true,
+   "size": [
+    0.902,
+    0.478,
+    0.902
+   ]
+  },
+  "nature_rock_tall_a": {
+   "disguise": true,
+   "size": [
+    2.458,
+    2.49,
+    1.708
+   ]
+  },
+  "nature_sign": {
+   "disguise": true,
+   "size": [
+    0.75,
+    1.022,
+    0.175
+   ]
+  },
+  "nature_stone_large_a": {
+   "disguise": true,
+   "size": [
+    1.962,
+    0.649,
+    2.539
+   ]
+  },
+  "nature_stone_small_a": {
+   "disguise": true,
+   "size": [
+    0.902,
+    0.478,
+    0.902
+   ]
+  },
+  "nature_stump_old": {
+   "disguise": true,
+   "size": [
+    0.891,
+    0.666,
+    0.928
+   ]
+  },
+  "nature_stump_round": {
+   "disguise": true,
+   "size": [
+    0.803,
+    0.516,
+    0.928
+   ]
+  },
+  "nature_tree_cone": {
+   "disguise": true,
+   "size": [
+    2.383,
+    6.436,
+    2.383
+   ]
+  },
+  "nature_tree_default": {
+   "disguise": true,
+   "size": [
+    3.398,
+    7.685,
+    2.942
+   ]
+  },
+  "nature_tree_default_fall": {
+   "disguise": true,
+   "size": [
+    3.398,
+    7.685,
+    2.942
+   ]
+  },
+  "nature_tree_detailed": {
+   "disguise": true,
+   "size": [
+    3.812,
+    5.996,
+    3.427
+   ]
+  },
+  "nature_tree_fat": {
+   "disguise": true,
+   "size": [
+    3.398,
+    5.177,
+    2.942
+   ]
+  },
+  "nature_tree_oak": {
+   "disguise": true,
+   "size": [
+    2.882,
+    5.518,
+    3.328
+   ]
+  },
+  "nature_tree_oak_fall": {
+   "disguise": true,
+   "size": [
+    2.882,
+    5.518,
+    3.328
+   ]
+  },
+  "nature_tree_pine_round_a": {
+   "disguise": true,
+   "size": [
+    2.777,
+    6.149,
+    3.206
+   ]
+  },
+  "nature_tree_pine_tall_a": {
+   "disguise": true,
+   "size": [
+    1.738,
+    6.883,
+    1.764
+   ]
+  },
+  "nature_tree_plateau": {
+   "disguise": true,
+   "size": [
+    2.753,
+    5.622,
+    2.947
+   ]
+  },
+  "nature_tree_simple": {
+   "disguise": true,
+   "size": [
+    1.596,
+    6.837,
+    1.843
+   ]
+  },
+  "nature_tree_small": {
+   "disguise": true,
+   "size": [
+    1.596,
+    4.995,
+    1.843
+   ]
+  },
+  "nature_tree_tall": {
+   "disguise": true,
+   "size": [
+    1.798,
+    7.595,
+    2.076
+   ]
+  }
+ }
+}

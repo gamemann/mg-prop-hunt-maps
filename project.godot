@@ -1,0 +1,12 @@
+; mg-prop-hunt-maps is data, not a game: the maps mg-prop-hunt reads. It is a Godot project
+; only so dot-ci's release can import it and attach the -pack.zip the site publishes as
+; gamemann/mg-prop-hunt-maps, the pack mg-prop-hunt's game.yml names under
+; server_dependencies, mounted on servers and never sent to a player.
+
+config_version=5
+
+[application]
+
+config/name="mg-prop-hunt-maps"
+config/description="Maps for mg-prop-hunt, as JSON documents."
+config/features=PackedStringArray("4.7")
