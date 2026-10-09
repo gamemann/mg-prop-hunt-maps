@@ -307,8 +307,27 @@ class Map:
                 s["at"] = v3(found[0], y, found[1])
                 print("  %s: %s spawn %d moved off %s to %s" % (self.doc["id"], side, i, what, s["at"]), file=sys.stderr)
 
+    def _face_spawns(self):
+        """Turns every spawn towards the middle of the map's furniture.
+
+        The game's yaw 0 looks along -Z and its formula is yaw = atan2(-dx, -dz); the
+        hand-written yaws assumed the other way round, and a browser render found a hunter
+        released on Willow Lane's street looking at empty sky. Every map but the school had
+        most of its spawns facing away. Computed rather than written per spawn, so a moved
+        spawn or a re-furnished room cannot point the wrong way again."""
+        if not self.props:
+            return
+        cx = sum(p["at"][0] for p in self.props) / len(self.props)
+        cz = sum(p["at"][2] for p in self.props) / len(self.props)
+        for spots in self.spawns.values():
+            for s in spots:
+                dx, dz = cx - s["at"][0], cz - s["at"][2]
+                if abs(dx) + abs(dz) > 0.01:
+                    s["yaw"] = r(math.degrees(math.atan2(-dx, -dz)))
+
     def build(self):
         self._settle_spawns()
+        self._face_spawns()
         self.doc["boxes"] = self.boxes
         self.doc["props"] = self.props
         self.doc["lights"] = self.lights
